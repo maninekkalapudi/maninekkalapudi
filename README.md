@@ -29,7 +29,7 @@
 
 <br>
 
-# :black_nib: Blog posts
+## :black_nib: Blog posts
 
 <br>
 
@@ -67,7 +67,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maninekkalapudi&" alt="maninekkalapudi" /></p>
 
 
-### :black_nib: Recent Activity
+## :black_nib: Recent Activity
 
 <!--START_SECTION:activity-->
 
