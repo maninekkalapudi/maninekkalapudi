@@ -29,8 +29,7 @@
 
 <br>
 
-## :black_nib: Blog posts
-
+## :black_nib: Blog Posts
 <br>
 
 <!-- BLOG-POST-LIST:START -->
@@ -41,7 +40,7 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 
 <br>
 
