@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Manikantha Nekkalapudi</h1>
 <h3 align="center">I'm a Data Engineer from Bangalore, India!</h3>
+
 <br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maninekkalapudi&label=Profile%20views&color=0e75b6&style=flat" alt="maninekkalapudi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/maninekkalapudi" target="blank"><img src="https://img.shields.io/twitter/follow/maninekkalapudi?logo=twitter&style=for-the-badge" alt="maninekkalapudi" /></a> </p>
+
 <br>
 
 - 🔭 I’m currently working on [Data Engineering by Examples](https://github.com/maninekkalapudi/dataengineeringbyexamples)
@@ -25,12 +28,20 @@
     [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/james_madhacks) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesgeorge007)
 
 <br>
+
 # :black_nib: Blog posts
+
+<br>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
+
+<br>
+
 <p align="left">
 <a href="https://dev.to/maninekkalapudi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="maninekkalapudi" height="30" width="40" /></a>
 <a href="https://twitter.com/maninekkalapudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maninekkalapudi" height="30" width="40" /></a>
