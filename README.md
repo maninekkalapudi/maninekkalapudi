@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manikantha Nekkalapudi</h1>
+<h1 align="center">Hi 👋, I'm Manikantha Nekkalapudi(Mani)</h1>
 <h3 align="center">I'm a Data Engineer from Bangalore, India!</h3>
 
 <br>
