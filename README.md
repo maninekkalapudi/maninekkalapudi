@@ -31,11 +31,11 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [WordCount Example with MapReduce](https://maninekkalapudi.com/wordcount-example-with-mapreduce)
 - [Hadoop MapReduce - A Programming Paradigm](https://maninekkalapudi.com/hadoop-mapreduce)
 - [HDFS - Hadoop Distributed Filesystem](https://maninekkalapudi.com/hdfs-hadoop-distributed-filesystem)
 - [Data Engineering- From 10,000 Feet Above](https://maninekkalapudi.com/data-engineering-from-10000-feet-above)
 - [Spark on Databricks](https://maninekkalapudi.com/spark-on-databricks)
-- [Apache Spark Of House Big Data](https://maninekkalapudi.com/apache-spark-introduction)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
