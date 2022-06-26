@@ -44,7 +44,7 @@
 <br>
 
 <p align="left">
-<a href="[https://hashnode.com/maninekkalapudi](https://hashnode.com/@maninekkalapudi)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="maninekkalapudi" height="30" width="40" /></a>
+<a href="https://hashnode.com/@maninekkalapudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="maninekkalapudi" height="30" width="40" /></a>
 <a href="https://dev.to/maninekkalapudi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="maninekkalapudi" height="30" width="40" /></a>
 <a href="https://twitter.com/maninekkalapudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maninekkalapudi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maninekkalapudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maninekkalapudi" height="30" width="40" /></a>
