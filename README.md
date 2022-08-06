@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/maninekkalapudi](https://github.com/maninekkalapudi)
 
-- 📝 I regularly write articles on [maninekkalapudi.com]([maninekkalapudi.com](https://maninekkalapudi.com))
+- 📝 I regularly write articles on [maninekkalapudi.com](https://maninekkalapudi.com)
 
 - 💬 Ask me about **Big Data, Data Engineering and Spark**
 
