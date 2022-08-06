@@ -31,11 +31,11 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [WordCount Example with MapReduce](https://maninekkalapudi.com/wordcount-example-with-mapreduce)
-- [Hadoop MapReduce - A Programming Paradigm](https://maninekkalapudi.com/hadoop-mapreduce)
-- [HDFS - Hadoop Distributed Filesystem](https://maninekkalapudi.com/hdfs-hadoop-distributed-filesystem)
-- [Data Engineering- From 10,000 Feet Above](https://maninekkalapudi.com/data-engineering-from-10000-feet-above)
-- [Spark on Databricks](https://maninekkalapudi.com/spark-on-databricks)
+- [Permissions in Linux](https://maninekkalapudi.com/permissions-in-linux)
+- [Redirecting linux command output](https://maninekkalapudi.com/io-redirection-in-linux)
+- [Know Your Linux Commands](https://maninekkalapudi.com/know-your-linux-commands)
+- [Working with Files and Directories in Linux CLI](https://maninekkalapudi.com/files-and-directories-in-linux-cli)
+- [The Linux Command Line Experience](https://maninekkalapudi.com/the-linux-command-line-experience)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
