@@ -29,11 +29,11 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Process management with Linux CLI](https://maninekkalapudi.com/process-management-with-linux-cli)
 - [Permissions in Linux](https://maninekkalapudi.com/permissions-in-linux)
 - [Redirecting linux command output](https://maninekkalapudi.com/io-redirection-in-linux)
 - [Know Your Linux Commands](https://maninekkalapudi.com/know-your-linux-commands)
 - [Working with Files and Directories in Linux CLI](https://maninekkalapudi.com/files-and-directories-in-linux-cli)
-- [The Linux Command Line Experience](https://maninekkalapudi.com/the-linux-command-line-experience)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
