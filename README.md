@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Data Engineering, Spark, AWS and Azure**
 
-- 📫 Reach out to me at: **maniekkalapudi1@gmail.com**
+- 📫 Reach out to me at: **maninekkalapudi1@gmail.com**
 
     [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/maninekkalapudi) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/maninekkalapudi)
 
