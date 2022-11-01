@@ -27,6 +27,7 @@
 
 ## :tv: Latest YouTube Video
 
+<br>
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dEDc25k7Kck"><img width="140px" src="https://i.ytimg.com/vi/dEDc25k7Kck/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dEDc25k7Kck">What is Data Engineering?</a><br/>Oct 26, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0TYxyAqPZto"><img width="140px" src="https://i.ytimg.com/vi/0TYxyAqPZto/mqdefault.jpg"></a></td>
