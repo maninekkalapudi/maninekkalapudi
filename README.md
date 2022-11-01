@@ -25,7 +25,17 @@
 
 <br>
 
+## :tv: Latest YouTube Video
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+<br>
+
 ## :black_nib: Blog Posts
+<br>
+
+
 <br>
 
 <!-- BLOG-POST-LIST:START -->
