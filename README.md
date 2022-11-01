@@ -29,11 +29,9 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Typical Data Pipeline](https://maninekkalapudi.com/a-typical-data-pipeline)
-- [Process management with Linux CLI](https://maninekkalapudi.com/process-management-with-linux-cli)
-- [Permissions in Linux](https://maninekkalapudi.com/permissions-in-linux)
-- [Redirecting linux command output](https://maninekkalapudi.com/io-redirection-in-linux)
-- [Know Your Linux Commands](https://maninekkalapudi.com/know-your-linux-commands)
+- [What is Data Engineering?](https://www.youtube.com/watch?v=dEDc25k7Kck)
+- [A Typical Data Pipeline](https://www.youtube.com/watch?v=0TYxyAqPZto)
+- [Welcome to the Channel 👋 | Data Engineering Journey](https://www.youtube.com/watch?v=8zx07K3XGKU)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
