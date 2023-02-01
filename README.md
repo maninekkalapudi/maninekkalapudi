@@ -35,7 +35,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vo_VFw_8gTA"><img width="140px" src="https://i.ytimg.com/vi/vo_VFw_8gTA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tG00G37NzjM"><img width="140px" src="https://i.ytimg.com/vi/tG00G37NzjM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tG00G37NzjM">Data Engineering Skillset 2023</a><br/>Feb 1, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vo_VFw_8gTA"><img width="140px" src="https://i.ytimg.com/vi/vo_VFw_8gTA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vo_VFw_8gTA">New video on core #dataengineering skillset. Stay tuned! #dataengineer #data #bigdata</a><br/>Nov 18, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dEDc25k7Kck"><img width="140px" src="https://i.ytimg.com/vi/dEDc25k7Kck/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dEDc25k7Kck">What is Data Engineering?</a><br/>Oct 26, 2022</td></tr></table>
