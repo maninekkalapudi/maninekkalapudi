@@ -35,7 +35,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tG00G37NzjM"><img width="140px" src="https://i.ytimg.com/vi/tG00G37NzjM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aIkC3YCy0ks"><img width="140px" src="https://i.ytimg.com/vi/aIkC3YCy0ks/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=aIkC3YCy0ks">SQL for Data Engineers</a><br/>Apr 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=tG00G37NzjM"><img width="140px" src="https://i.ytimg.com/vi/tG00G37NzjM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tG00G37NzjM">Data Engineering Skillset 2023</a><br/>Feb 1, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vo_VFw_8gTA"><img width="140px" src="https://i.ytimg.com/vi/vo_VFw_8gTA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vo_VFw_8gTA">New video on core #dataengineering skillset. Stay tuned! #dataengineer #data #bigdata</a><br/>Nov 18, 2022</td></tr></table>
@@ -43,8 +45,6 @@
 <td><a href="https://www.youtube.com/watch?v=dEDc25k7Kck">What is Data Engineering?</a><br/>Oct 26, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0TYxyAqPZto"><img width="140px" src="https://i.ytimg.com/vi/0TYxyAqPZto/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0TYxyAqPZto">A Typical Data Pipeline</a><br/>Oct 10, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=8zx07K3XGKU"><img width="140px" src="https://i.ytimg.com/vi/8zx07K3XGKU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8zx07K3XGKU">Welcome to the Channel 👋 | Data Engineering Journey</a><br/>Sep 21, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <br>
