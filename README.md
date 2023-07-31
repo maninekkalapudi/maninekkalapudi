@@ -56,11 +56,11 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Book Review- Fundamentals of Data Engineering](https://maninekkalapudi.com/book-review-fundamentals-of-data-engineering)
 - [What is Data Engineering?](https://maninekkalapudi.com/what-is-data-engineering)
 - [A Typical Data Pipeline](https://maninekkalapudi.com/a-typical-data-pipeline)
 - [Process management with Linux CLI](https://maninekkalapudi.com/process-management-with-linux-cli)
 - [Permissions in Linux](https://maninekkalapudi.com/permissions-in-linux)
-- [Redirecting linux command output](https://maninekkalapudi.com/io-redirection-in-linux)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
