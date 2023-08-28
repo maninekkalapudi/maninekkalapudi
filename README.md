@@ -36,7 +36,7 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8WszQ1cjc3c"><img width="140px" src="https://i.ytimg.com/vi/8WszQ1cjc3c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8WszQ1cjc3c">Data Streams - Vol2| Data Architectures</a><br/>Aug 26, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=8WszQ1cjc3c">Data Streams - Vol2| Data Architectures</a><br/>Aug 28, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lks33_Ay7D4"><img width="140px" src="https://i.ytimg.com/vi/lks33_Ay7D4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lks33_Ay7D4">Data Streams- Volume1</a><br/>Aug 14, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ltB20FrK3y8"><img width="140px" src="https://i.ytimg.com/vi/ltB20FrK3y8/mqdefault.jpg"></a></td>
