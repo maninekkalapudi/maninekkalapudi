@@ -56,11 +56,11 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Book Review- Fundamentals of Data Engineering](https://maninekkalapudi.io/book-review-fundamentals-of-data-engineering)
-- [What is Data Engineering?](https://maninekkalapudi.io/what-is-data-engineering)
-- [A Typical Data Pipeline](https://maninekkalapudi.io/a-typical-data-pipeline)
-- [Process management with Linux CLI](https://maninekkalapudi.io/process-management-with-linux-cli)
-- [Permissions in Linux](https://maninekkalapudi.io/permissions-in-linux)
+- [Book Review- Fundamentals of Data Engineering](https://maninekkalapudi.hashnode.dev/book-review-fundamentals-of-data-engineering)
+- [What is Data Engineering?](https://maninekkalapudi.hashnode.dev/what-is-data-engineering)
+- [A Typical Data Pipeline](https://maninekkalapudi.hashnode.dev/a-typical-data-pipeline)
+- [Process management with Linux CLI](https://maninekkalapudi.hashnode.dev/process-management-with-linux-cli)
+- [Permissions in Linux](https://maninekkalapudi.hashnode.dev/permissions-in-linux)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
