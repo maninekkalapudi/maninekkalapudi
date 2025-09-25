@@ -35,7 +35,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SWDPQ_H2TnY"><img width="140px" src="https://i.ytimg.com/vi/SWDPQ_H2TnY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8-N-c2iMQKA"><img width="140px" src="https://i.ytimg.com/vi/8-N-c2iMQKA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8-N-c2iMQKA">Live Zoom Sessions| Data roles and Data Engineering Skills</a><br/>Sep 25, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SWDPQ_H2TnY"><img width="140px" src="https://i.ytimg.com/vi/SWDPQ_H2TnY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SWDPQ_H2TnY">Live Zoom Sessions | Introduction to Data Engineering</a><br/>Sep 20, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8WszQ1cjc3c"><img width="140px" src="https://i.ytimg.com/vi/8WszQ1cjc3c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8WszQ1cjc3c">Data Streams - Vol2| Data Architectures</a><br/>Aug 28, 2023</td></tr></table>
@@ -43,8 +45,6 @@
 <td><a href="https://www.youtube.com/watch?v=lks33_Ay7D4">Data Streams- Volume1</a><br/>Aug 14, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ltB20FrK3y8"><img width="140px" src="https://i.ytimg.com/vi/ltB20FrK3y8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ltB20FrK3y8">maninekkalapudi Live Stream</a><br/>Aug 8, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=aIkC3YCy0ks"><img width="140px" src="https://i.ytimg.com/vi/aIkC3YCy0ks/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=aIkC3YCy0ks">SQL for Data Engineers</a><br/>Apr 4, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <br>
