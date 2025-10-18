@@ -36,7 +36,7 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mt7jD3Z0rJo"><img width="140px" src="https://i.ytimg.com/vi/mt7jD3Z0rJo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mt7jD3Z0rJo">Topic: HDFS Deep Dive Part 3| HDFS Limitations and Demo</a><br/>Oct 18, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=mt7jD3Z0rJo">HDFS Deep Dive Part 3| HDFS Limitations and Demo</a><br/>Oct 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=p07kAiWL2_E"><img width="140px" src="https://i.ytimg.com/vi/p07kAiWL2_E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=p07kAiWL2_E">Live Zoom Sessions| Big Data Storage Systems | HDFS Deep Dive Part-2 | HDFS Failures</a><br/>Oct 11, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=prnzU9SFVHw"><img width="140px" src="https://i.ytimg.com/vi/prnzU9SFVHw/mqdefault.jpg"></a></td>
