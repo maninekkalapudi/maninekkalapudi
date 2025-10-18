@@ -35,7 +35,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=p07kAiWL2_E"><img width="140px" src="https://i.ytimg.com/vi/p07kAiWL2_E/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mt7jD3Z0rJo"><img width="140px" src="https://i.ytimg.com/vi/mt7jD3Z0rJo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mt7jD3Z0rJo">Topic: HDFS Deep Dive Part 3| HDFS Limitations and Demo</a><br/>Oct 18, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=p07kAiWL2_E"><img width="140px" src="https://i.ytimg.com/vi/p07kAiWL2_E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=p07kAiWL2_E">Live Zoom Sessions| Big Data Storage Systems | HDFS Deep Dive Part-2 | HDFS Failures</a><br/>Oct 11, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=prnzU9SFVHw"><img width="140px" src="https://i.ytimg.com/vi/prnzU9SFVHw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=prnzU9SFVHw">Live Zoom Sessions| Big Data Storage Systems | HDFS Deep Dive Part-1</a><br/>Oct 5, 2025</td></tr></table>
@@ -43,8 +45,6 @@
 <td><a href="https://www.youtube.com/watch?v=22_gEsjEXZE">Live Zoom Sessions| Big Data Storage Systems | HDFS</a><br/>Sep 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8-N-c2iMQKA"><img width="140px" src="https://i.ytimg.com/vi/8-N-c2iMQKA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8-N-c2iMQKA">Live Zoom Sessions| Data roles and Data Engineering Skills</a><br/>Sep 25, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=SWDPQ_H2TnY"><img width="140px" src="https://i.ytimg.com/vi/SWDPQ_H2TnY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SWDPQ_H2TnY">Live Zoom Sessions | Introduction to Data Engineering</a><br/>Sep 20, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <br>
