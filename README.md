@@ -35,7 +35,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NhhCW12bmxI"><img width="140px" src="https://i.ytimg.com/vi/NhhCW12bmxI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ncZcfyl4ZAM"><img width="140px" src="https://i.ytimg.com/vi/ncZcfyl4ZAM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ncZcfyl4ZAM">Apache Hive Deep Dive Part-1</a><br/>Feb 23, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NhhCW12bmxI"><img width="140px" src="https://i.ytimg.com/vi/NhhCW12bmxI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NhhCW12bmxI">MapReduce Code Examples Deep Dive</a><br/>Jan 4, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qqu8T9EzPWQ"><img width="140px" src="https://i.ytimg.com/vi/qqu8T9EzPWQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qqu8T9EzPWQ">MapReduce Deep Dive Part 3</a><br/>Dec 2, 2025</td></tr></table>
@@ -43,8 +45,6 @@
 <td><a href="https://www.youtube.com/watch?v=jyrLprb--tA">MapReduce Deep Dive Part 2</a><br/>Nov 8, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8-3ZUS1GaJo"><img width="140px" src="https://i.ytimg.com/vi/8-3ZUS1GaJo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8-3ZUS1GaJo">MapReduce Deep Dive Part 1</a><br/>Nov 2, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mt7jD3Z0rJo"><img width="140px" src="https://i.ytimg.com/vi/mt7jD3Z0rJo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mt7jD3Z0rJo">HDFS Deep Dive Part 3| HDFS Limitations and Demo</a><br/>Oct 18, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <br>
